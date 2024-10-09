@@ -1,5 +1,9 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm M. Ghozi Syah Putra</h1><br><h3 align="center">I am a student in the D4 Computer Engineering Technology program at Politeknik Pertanian Negeri Payakumbuh.</h3><br><br> 🌱 I’m currently learning Javascript<br> 📫 How to reach me ghozi286@gmail.com<br>
+<h1 align="center">Hi 👋, I'm M. Ghozi Syah Putra</h1><br><h3 align="center">
+I am a student in the D4 Computer Engineering Technology program at Politeknik Pertanian Negeri Payakumbuh.</h3>
+<br>
+🌱 I’m currently learning Javascript
+<br> 📫 How to reach me ghozi286@gmail.com<br>
 
 
 ## 🌐 Socials:
