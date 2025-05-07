@@ -26,6 +26,9 @@ I am a student in the D4 Computer Engineering Technology program at Politeknik P
   </a>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/m-ghozi/m-ghozi/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 ![](https://komarev.com/ghpvc/?username=m-ghozi&color=FF6E96&style=for-the-badge)
